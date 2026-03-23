@@ -1,0 +1,10 @@
+abraham@abraham-VirtualBox:~/Documentos/dev/actividad-6-2-ramas-con-git-4BXA$ git branch
+* feature-mensaje-bienvenida
+  main
+abraham@abraham-VirtualBox:~/Documentos/dev/actividad-6-2-ramas-con-git-4BXA$ git log --oneline 
+74f8332 (HEAD -> feature-mensaje-bienvenida) Añade mensaje de bienvenida en rama feature
+ec5b7ca (main) Versión inicial de la aplicación
+d81f411 (origin/main, origin/HEAD) add deadline
+a085ca8 Initial commit
+
+Hemos accedido a la rama "feature-mensaje-bienvenida" y hemos añadido actualizado el archivo app.txt y se ha hecho un commit, en la rama main está el mismo archivo pero sin actualizar.

@@ -1,0 +1,13 @@
+abraham@abraham-VirtualBox:~/Documentos/dev/actividad-6-2-ramas-con-git-4BXA$ git branch
+* feature-licencia
+  feature-mensaje-bienvenida
+  main
+abraham@abraham-VirtualBox:~/Documentos/dev/actividad-6-2-ramas-con-git-4BXA$ git log --oneline
+2f657e5 (HEAD -> feature-licencia) Añade archivo de licencia en rama feature-licencia
+ec5b7ca (main) Versión inicial de la aplicación
+d81f411 (origin/main, origin/HEAD) add deadline
+a085ca8 Initial commit
+
+Indica cuántas ramas tienes y para qué sirve cada una (main, feature-mensaje-bienvenida, feature-licencia).
+
+Tiene tres ramas en total. La rama main tiene la versión inicial de la aplicación, la de feature-mensaje-bienvenida tiene el mensaje de bienvenida y la rama feature-licencia la licencia de la aplicación.

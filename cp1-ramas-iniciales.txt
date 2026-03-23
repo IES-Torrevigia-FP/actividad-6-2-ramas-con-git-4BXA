@@ -1,0 +1,7 @@
+abraham@abraham-VirtualBox:~/Documentos/dev/actividad-6-2-ramas-con-git-4BXA$ git branch
+* main
+abraham@abraham-VirtualBox:~/Documentos/dev/actividad-6-2-ramas-con-git-4BXA$ git log --oneline
+ec5b7ca (HEAD -> main) Versión inicial de la aplicación
+d81f411 (origin/main, origin/HEAD) add deadline
+a085ca8 Initial commit
+
